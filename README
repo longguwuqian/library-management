@@ -1,0 +1,42 @@
+Library Management System using PHP and PostgreSQL
+
+INTRODUCTION
+------------
+This is a project work done as part of academics during 2010 – 2011. 
+The Library Management System stands for its user friendly interface that it offers to both the user and the admin. The system offers a wide range of accessibilities to the admin from managing member accounts to handling book records while the member gets to explore the Library at the tip of his finger at ease. The schema has been prepared in such a way that maximum possible things are done using minimum entities.
+
+
+USAGE
+-----
+Link : http://athena.nitc.ac.in/~b090437cs/intro.php
+
+The website has an admin access and a guest access.
+The user credentials are : 
+
+ADMIN
+username : admin
+password : admin
+
+GUEST
+username : guest
+password : guest
+
+
+BACKEND
+--------
+PostgreSQL 8.4.8
+
+
+AUTHORS
+--------
+Dipin V Panicker
+Semester - IV
+NIT Calicut
+
+Jerrin Shaji George
+Semester - IV
+NIT Calicut
+
+Merrymel M George
+Semester - IV
+NIT Calicut
